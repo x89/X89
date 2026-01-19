@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me
 
-<!--
-**x89/X89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who I Am**  
+Crypto trader and developer who got tired of bad bots, so I built my own AI trading system.
 
-Here are some ideas to get you started:
+**What I Built**  
+This bot uses real AI models and connects to Bitget, Blofin, and Binance through their APIs for fully automated trading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How It Works**  
+Machine learning handles predictions, pattern detection, and all trading decisions – hitting 5-25% daily returns with smart risk management.
+
+**The Tech Stack**  
+Built with custom API integrations, AI training pipelines, and monitoring systems that run 24/7 without babysitting.
+
+**Real Money Testing**  
+Everything here is tested with actual capital, not just backtests – if it doesn't work in real markets, it doesn't go in.
+
+**Always Improving**  
+The system learns and gets better based on live performance, not some outdated strategy from 2018.
+
+**Here to Help**  
+Happy to help you with API setup, bot configuration, or any questions about trading automation.
